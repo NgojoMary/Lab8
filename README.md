@@ -1,1 +1,1 @@
-This contains the exrcises for text styles such as Font family, color, and size.
+This contains the exercises for text styles such as Font family, color, and size.

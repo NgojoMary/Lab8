@@ -1,1 +1,43 @@
 
+html { 
+	background: url(exo.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+body {
+  font-size: 120%;
+}
+.style {
+  font-family: "Impact", sans-serif;
+  color: #F0FFFF;
+  font-weight: bold;
+  font-size: 80px;
+  text-align: center; 
+}
+ p {
+	text-align: center;
+}  
+
+h1 {
+	font-family: "Times New Roman", sans-serif;
+	font-size: 20px;
+	color: 	#E6E6FA;
+	text-align: center;
+}
+.highlight {
+	background-color: white;
+}
+h2 {
+	font-family: "Helvetica", sans-serif;
+	font-size: 20px;
+	color: 	White;
+	text-align: center;
+}
+h3 {
+	font-family: "Arial", sans-serif;
+	font-size: 20px;
+	color: 	Beige;
+	text-align: center;
+}

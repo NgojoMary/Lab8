@@ -1,6 +1,6 @@
 
 html { 
-	background: url(exo.jpg) no-repeat center center fixed; 
+	background: url(BIfJN3phwt0.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -22,22 +22,19 @@ body {
 
 h1 {
 	font-family: "Times New Roman", sans-serif;
-	font-size: 20px;
+	font-size: 50px;
 	color: 	#E6E6FA;
 	text-align: center;
 }
-.highlight {
-	background-color: white;
-}
 h2 {
 	font-family: "Helvetica", sans-serif;
-	font-size: 20px;
-	color: 	White;
+	font-size: 35px;
+	color: 	Beige;
 	text-align: center;
 }
 h3 {
 	font-family: "Arial", sans-serif;
 	font-size: 20px;
-	color: 	Beige;
+	color: Beige;
 	text-align: center;
 }

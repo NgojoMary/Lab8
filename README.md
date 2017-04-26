@@ -1,1 +1,1 @@
-Lab8 contains the exrcises for style texts
+Lab8 contains the exrcises for text styles such as Font family, color, and size.

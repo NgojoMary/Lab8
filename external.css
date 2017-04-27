@@ -10,7 +10,7 @@ body {
 }
 .style {
   font-family: "Impact", sans-serif;
-  color: #F0FFFF;
+  color: AliceBlue  ;
   font-weight: bold;
   font-size: 80px;
   text-align: center; 
@@ -22,13 +22,13 @@ body {
 h1 {
 	font-family: "Times New Roman", sans-serif;
 	font-size: 50px;
-	color: 	#E6E6FA;
+	color: 	LavenderBlush  ;
 	text-align: center;
 }
 h2 {
 	font-family: "Helvetica", sans-serif;
 	font-size: 35px;
-	color: 	Beige;
+	color: 	HoneyDew ;
 	text-align: center;
 }
 h3 {
